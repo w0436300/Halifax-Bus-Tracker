@@ -1,6 +1,9 @@
 # Halifax-Bus-Tracker
 
-Developed a weather app provides current weather details by city, 
-dynamically updates the user interface based on weather conditions,
+This bus tracker app provides real-time updates on bus locations using Leaflet.js, asynchronous JavaScript (fetch API).
 
-https://claire-xinping.com/public/projects/Weather-Api/index.html
+Technologies:
+Leaflet.js for interactive maps
+GeoJSON for spatial data representation
+
+https://claire-xinping.com/public/projects/Halifax-BusTracker/index.html
